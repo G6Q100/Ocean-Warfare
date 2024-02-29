@@ -1,0 +1,38 @@
+﻿  draw.cpp
+  image.cpp
+  main.cpp
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(105): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(120): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(121): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(122): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(123): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(124): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(125): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(127): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(128): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(129): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(130): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(133): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(134): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(135): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(138): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(139): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(142): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(290): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(415): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(418): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(421): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(424): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(432): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(437): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(446): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(451): warning C4244: 'argument': conversion from 'GLdouble' to 'GLint', possible loss of data
+c:\users\user\desktop\it114206\met4335\ea\ocean warfare\ocean warfare\main.cpp(522): warning C4244: '+=': conversion from 'GLdouble' to 'GLint', possible loss of data
+  maths.cpp
+  spawn.cpp
+  Generating code
+  37 of 37 functions (100.0%) were compiled.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ocean Warfare.vcxproj -> C:\Users\user\Desktop\IT114206\MET4335\EA\Ocean Warfare\Release\Ocean Warfare.exe
